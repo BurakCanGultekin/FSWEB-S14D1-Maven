@@ -7,6 +7,5 @@ public class JuniorDeveloper extends Employee{
     @Override
     public void work() {
         System.out.println("Junior Developer starts to working");
-        setSalary(2000);
     }
 }
